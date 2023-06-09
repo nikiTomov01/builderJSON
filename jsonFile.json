@@ -1,8 +1,9 @@
 {
-    "Profile": 
-            {
+    "Profile": [
+                {
             "name": "Jack Smith",
             "age": "34",
             "description": "This is a temp description from a json file."
         }
+    ]
 }
